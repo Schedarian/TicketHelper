@@ -1,0 +1,7 @@
+:bot_token:
+:bot_id:
+:server_id:
+:console_channel_id:
+:player_role_id:
+:logs_channel_id:
+:register_commands?: true
